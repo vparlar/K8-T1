@@ -17,3 +17,4 @@ spec:
     - containerPort: 9090
       name: redis
       protocol: TCP
+  
