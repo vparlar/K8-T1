@@ -16,5 +16,5 @@ spec:
             - /bin/sh
             - -c
             - uname
-          restartP  olicy: OnFailure
+          restartPolicy: OnFailure
 
