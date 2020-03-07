@@ -1,2 +1,4 @@
 NAME        CPU(cores)   MEMORY(bytes)   
 myapp       11m          15Mi 
+
+#command is $kubectl top pods --all-namespaces --containers=true
